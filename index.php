@@ -13,13 +13,15 @@
           <td> Nombres y Apellidos</td>
           <td > <input type="text" name="NomApellidos" class="Nombres"></td>
         </tr>
+        <tr>
         <td>Cargo a desempeñar</td>
           <td > <input type="text" name="Cargo" class="Cargo"></td>
         </tr>
+        <tr>
         <td> Salario</td>
           <td > <input type="text" name="Salario" class="Salario"></td>
         </tr>
-        </tr>
+        <tr>
           <td > <input type="submit"  values="Enviar Datos" class="boton"></td>
         </tr>
       </tabla>
