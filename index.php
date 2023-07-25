@@ -1,7 +1,6 @@
 
 <html>
  <body> 
-  
    <form class= "formulario" action= "ejercicio.php" method= "POST" name="productos">
      <table name="table" border="1" class="table"> 
         <tr>
@@ -28,7 +27,6 @@
          <td> nombre precio3  </td>
          <td> <input type="text" name="precio3" class="caja6" >  </td>          
         </tr>
-
        <tr>        
          <td> <input type="submit" values="enviar" class="boton" >  </td>          
         </tr>
