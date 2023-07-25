@@ -1,7 +1,4 @@
 
-<html>
-<head>
-<body>
 '<?php
 $Identificacion= $_POST ['Identificacion'];
 $NomApellidos=$_POST ['NomApellidos'];
@@ -16,6 +13,3 @@ echo "<br>";
 echo "El salario del empleado es:  ".$Salario;
 echo "<br>";
 ?>'
-</body>
-</head>
-</html>
