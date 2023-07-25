@@ -14,7 +14,6 @@ echo "<br>";
 echo "EL TERCER PRODUCTO INGRESADO ES: ".$producto3;
 echo "<br>";
 
-
  $suma=$precio1+$precio2+$precio3;
 
 echo "LA SUMA DE LOS TRES PRODUCTOS EQUIVALE A: ".$suma;
@@ -26,6 +25,7 @@ echo "EL DESCUENTO CORREESPONDE A: ".$descuento;
 echo "<br>";
 
 $totalpago=$suma-$descuento;
+
   
 echo "EL TOTAL A PAGAR ES: ".$totalpago;
 echo "<br>";
