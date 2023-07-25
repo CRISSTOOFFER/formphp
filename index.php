@@ -1,7 +1,7 @@
 
 <html>
  <body> 
-   <form class= "formulario" action= "ejercicio.php" method= "POST" name="productos">
+   <form class= "formulario" action= "ejercicio1.php" method= "POST" name="productos">
      <table name="table" border="1" class="table"> 
         <tr>
          <td> nombre producto1  </td>
